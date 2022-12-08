@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "lighthouse": "^9.6.8"
-  }
+  },
+  "name": "abdallahs-coding-pprtfolio-",
+  "description": "this is my coding portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahJumah95/Abdallahs-coding-pprtfolio-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahJumah95/Abdallahs-coding-pprtfolio-/issues"
+  },
+  "homepage": "https://github.com/AbdallahJumah95/Abdallahs-coding-pprtfolio-#readme"
 }
