@@ -6,7 +6,9 @@
   "description": "this is my coding portfolio",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "hint": "^7.1.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
