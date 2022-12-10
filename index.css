@@ -96,81 +96,82 @@
 
   .img1{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
+    TOP: 220px; 
+    LEFT: 100px; 
     WIDTH:50px; 
     HEIGHT:50px
   }
 
   .img2{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
-    WIDTH:50px; 
-    HEIGHT:50px
+    TOP:170px; 
+    LEFT:1250px; 
+    WIDTH:100px; 
+    HEIGHT:100px
   }
 
   .img3{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
-    WIDTH:50px; 
-    HEIGHT:50px
+    TOP:200px; 
+    LEFT:1300px; 
+    WIDTH:150px; 
+    HEIGHT:150px
   }
 
   .img4{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
+    TOP:170px; 
+    LEFT:100px; 
     WIDTH:50px; 
     HEIGHT:50px
   }
 
   .img5{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
+    TOP:120px; 
+    LEFT:700px; 
     WIDTH:50px; 
-    HEIGHT:50px
+    HEIGHT:20px
   }
 
   .img6{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
-    WIDTH:50px; 
-    HEIGHT:50px
+    TOP:140px; 
+    LEFT:720px; 
+    WIDTH:20px; 
+    HEIGHT:20px
   }
 
   .img7{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
-    WIDTH:50px; 
-    HEIGHT:50px
+    TOP:500px; 
+    LEFT:1000px; 
+    WIDTH:30px; 
+    HEIGHT:30px
   }
 
   .img8{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
+    TOP:510px; 
+    LEFT:980px; 
     WIDTH:50px; 
-    HEIGHT:50px
+    HEIGHT:80px
   }
 
   .img9{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
-    WIDTH:50px; 
-    HEIGHT:50px
+    TOP:520px; 
+    LEFT:405px; 
+    WIDTH:30px; 
+    HEIGHT:30px
   }
 
   .img10{
     position:absolute; 
-    TOP:35px; 
-    LEFT:170px; 
+    TOP:550px; 
+    LEFT:400px; 
     WIDTH:50px; 
     HEIGHT:50px
   }
+
 
