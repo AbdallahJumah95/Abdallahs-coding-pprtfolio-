@@ -3,6 +3,7 @@
   float: right;
   overflow: hidden;
   margin-bottom: 50px;
+
 }
 
 .toolbar a {
@@ -12,15 +13,17 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+
 }
 
 .toolbar a:hover {
   background-color: #ddd;
   color: black;
+  
 }
 
 .toolbar a.active {
-  background-color: #04AA6D;
+  background-color: #04aa6d;
   color: white;
 }
 
