@@ -1,8 +1,8 @@
 .toolbar {
-  display: inline;
-  float: right;
-  overflow: hidden;
-  margin-bottom: 50px;
+   display: inline;
+   float: right;
+   overflow: hidden;
+   margin-bottom: 50px;
 }
 
 
@@ -39,12 +39,12 @@
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: #3b5998;
   color: white;
 } 
 
 .fa-twitter {
-  background: #55ACEE;
+  background: #55acee;
   color: white;
 } 
 
