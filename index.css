@@ -65,11 +65,10 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-size: 50px;
-  font-weight: 100;
+  font-weight: 100px;
   line-height: 28px;
   color: #130202;
   flex: none;
-  order: 1;
 }
 
 .h2 {
