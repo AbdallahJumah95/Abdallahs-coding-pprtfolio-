@@ -26,9 +26,12 @@
 
 .container {
   display: flex;
-  height: 200px;
+  height: 250px;
+  width: 1300px;
   justify-content: center;
   align-items: center;
+  background-color: white;
+  background-size: 15cm;
 }
 
 .fa:hover {
@@ -164,4 +167,36 @@
   left: 400px;
   width: 50px;
   height: 50px;
+}
+
+
+.rest{
+  background-color:gray;
+}
+
+
+.container2 {
+  border: #130202;
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: 290px;
+  padding: 90px;
+  border: 1px solid black;
+  margin: 200px 300px;
+}
+
+.container3 {
+  border: #130202;
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: 800px;
+  padding: 90px;
+  border: 1px solid black;
+  margin: 200px 300px;
 }
