@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "lighthouse": "^9.6.8"
+  },
+  "name": "abdallahs-coding-pprtfolio-",
+  "description": "this is my coding portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "@typescript-eslint/parser": "^5.46.0",
+    "eslint": "^8.29.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahJumah95/Abdallahs-coding-pprtfolio-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahJumah95/Abdallahs-coding-pprtfolio-/issues"
+  },
+  "homepage": "https://github.com/AbdallahJumah95/Abdallahs-coding-pprtfolio-#readme"
+}
